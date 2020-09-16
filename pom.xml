@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
 
+    <!--定义版本信息-->
     <properties>
         <java.version>1.8</java.version>
         <spark.version>2.1.0</spark.version>
@@ -92,7 +93,6 @@
             <version>${elasticsearch.version}</version>
         </dependency>
     </dependencies>
-
     <profiles>
         <!--开发环境-->
         <profile>
@@ -112,7 +112,6 @@
             </properties>
         </profile>
     </profiles>
-
     <build>
         <plugins>
             <plugin>
