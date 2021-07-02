@@ -15,7 +15,7 @@
         <spark.version>2.1.0</spark.version>
         <scala.version>2.11</scala.version>
         <springboot.version>2.2.0.RELEASE</springboot.version>
-        <elasticsearch.version>6.8.5</elasticsearch.version>
+        <elasticsearch.version>6.8.15</elasticsearch.version>
         <lombok.version>1.18.10</lombok.version>
         <fastjson.version>1.2.59</fastjson.version>
     </properties>
