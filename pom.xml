@@ -14,7 +14,7 @@
         <java.version>1.8</java.version>
         <spark.version>2.1.0</spark.version>
         <scala.version>2.11</scala.version>
-        <springboot.version>2.2.0.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <elasticsearch.version>6.8.5</elasticsearch.version>
         <lombok.version>1.18.10</lombok.version>
         <fastjson.version>1.2.59</fastjson.version>
