@@ -17,7 +17,7 @@
         <springboot.version>2.2.0.RELEASE</springboot.version>
         <elasticsearch.version>6.8.5</elasticsearch.version>
         <lombok.version>1.18.10</lombok.version>
-        <fastjson.version>1.2.59</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
